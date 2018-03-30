@@ -1,0 +1,11 @@
+INDEX VERSION 1.3+C:\Users\internousdev\Desktop\workspace\workspace-yatsuya\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1604660166.index
+2795787554.index
+3523623015.index
+3404550070.index
+2055351946.index
+2267404250.index
+2530802075.index
+2475649475.index
+766527907.index
+2150458918.index
